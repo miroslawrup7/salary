@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salary/static/css/main.ecb8a7ee.css",
+    "main.js": "/salary/static/js/main.b8e12543.js",
+    "index.html": "/salary/index.html",
+    "main.ecb8a7ee.css.map": "/salary/static/css/main.ecb8a7ee.css.map",
+    "main.b8e12543.js.map": "/salary/static/js/main.b8e12543.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecb8a7ee.css",
+    "static/js/main.b8e12543.js"
+  ]
+}
