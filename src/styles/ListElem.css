@@ -1,0 +1,22 @@
+.list-elem {
+    display: flex;
+    flex-direction: row;
+    margin: 7px 0;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 8px 0px;
+    justify-content: space-around;
+    padding: 10px;
+    transition: all 0.05s ease-out;
+}
+
+.list-elem:hover {
+    background-color:  rgba(251,129,34,0.2);
+    font-weight: 700;
+}
+
+.list-elem p {
+    width: 23%;
+}
+
+.list-elem p.lp {
+    width: 8%;
+}

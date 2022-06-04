@@ -1,0 +1,32 @@
+.add {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+input, select, .button {
+    border: solid 1px rgba(34,48,251,0.5);
+    height: 30px;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 8px 0px;
+    padding: 0 5px;
+}
+
+input:focus , select:focus {
+    border: solid 1px #fb8122;
+}
+
+.button {
+    width: 120px;
+    background-color: #2230fb;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}

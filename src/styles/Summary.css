@@ -1,0 +1,42 @@
+
+.list {
+    margin: 0 15px 5px 15px;
+}
+
+.list-dept {
+    margin: 0 15px 5px 15px;
+}
+
+.summary p,
+.summary-dept p {
+    width: 23%;
+}
+
+.summary p.lp,
+.summary-dept p.lp{
+    width: 8%;
+}
+
+.summary-dept {
+    width: 100%;
+    background-color:#b3b3b3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #fff;
+    font-weight: 300;
+    padding: 3px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 8px 0px;
+}
+
+.summary {
+    width: 100%;
+    background-color:#8f8f8f;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #000;
+    padding: 10px;
+    font-weight: 700;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 8px 0px;
+}

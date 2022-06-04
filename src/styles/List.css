@@ -1,0 +1,23 @@
+.list {
+    margin: 0 15px 15px 15px;
+}
+
+.list-head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #2230fb;
+    color: #fff;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 8px 0px;
+}
+
+.list-head p {
+    width: 23%;
+}
+
+.list-head p.lp {
+    width: 8%;
+}
+
+/* #fb8122 */
